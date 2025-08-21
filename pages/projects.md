@@ -6,10 +6,6 @@ wrapperClass: 'text-center'
 art: dots
 projects:
   Pinned:
-    - name: 'bcOS'
-      link: 'https://os.bicheng.me/'
-      desc: 'A operation system that lives in your browser.'
-      icon: 'i-eos-icons-installing'
     - name: 'Resume'
       link: 'https://cv.bicheng.me/'
       desc: 'A copy of my personal resume.'
@@ -21,11 +17,11 @@ projects:
       desc: 'Enterprise fleet safety solution, safe guarding all road users.'
       icon: 'i-lineicons-road'
     - name: 'AI Toy'
-      link: 'https://bicheng.me/projects'
+      link: 'https://github.com/Bicheng-G/folo-server'
       desc: 'Bringing toys to live, powered by AI.'
       icon: 'i-eos-icons-machine-learning-outlined'
     - name: 'LED Display'
-      link: 'https://bicheng.me/projects'
+      link: 'https://bicheng.me/projects-led'
       desc: 'Innovating LED display for vehicles.'
       icon: 'i-material-symbols-light-nest-display-max-outline'
 
@@ -49,7 +45,7 @@ projects:
       desc: 'A dithering 3D g letter.'
       icon: 'i-ion-social-google-outline'
     - name: 'SG Roads'
-      link: 'https://sg.bicheng.me/'
+      link: 'https://github.com/Bicheng-G/sg-roads'
       desc: 'All roads in Singapore.'
       icon: 'i-gis-road-map'
     - name: 'bcOS'
@@ -59,7 +55,7 @@ projects:
 
   Machine Learning:
     - name: 'Fun with Computer Vision'
-      link: 'https://bicheng.me/projects'
+      link: 'https://bicheng.me/projects-cv'
       desc: 'A collection of many small computer vision projects.'
       icon: 'hamsa'
     - name: 'Book Recommender System'
@@ -93,7 +89,7 @@ projects:
 
   Scripts:
     - name: 'Tik Tok Downloader Shortcut'
-      link: 'https://github.com/antfu/1990-script'
+      link: 'https://github.com/Bicheng-G/Tiktok-Downloader-Shortcut-ios'
       desc: 'Download Douyin Video without watermark on iOS.'
       icon: 'i-carbon-download'
     - name: 'Yellow Page Scraper'
